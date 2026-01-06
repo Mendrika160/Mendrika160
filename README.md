@@ -67,5 +67,4 @@ Work done: UI/UX implementation, page integration, mobile optimization.
 ---
 
 ## 📫 Contact
-- 📧 Email: rahelisonhajaina@gmail.com  
-- 🐙 GitHub: https://github.com/Mendrika160
+- 📧 Email: rahelisonhajaina@gmail.com
