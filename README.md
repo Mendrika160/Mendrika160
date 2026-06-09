@@ -52,15 +52,6 @@ Work done: front-end integration, performance optimization, responsive design.
 
 ---
 
-### 🔹 Kadeco Mariage
-Corporate website for a wedding decoration company.  
-Stack: React / Next.js.  
-Work done: UI/UX implementation, page integration, mobile optimization.
-
-👉 https://kadeco-mariage.fr/
-
----
-
 ## 🌐 Portfolio
 👉 https://mendrika-rahelison.vercel.app/
 
